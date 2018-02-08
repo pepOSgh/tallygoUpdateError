@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TallyGoSDKUpdate</string>
+    <string name="tallygo_access_token">YOUR_ACCESS_TOKEN</string>
+</resources>
